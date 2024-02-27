@@ -6,7 +6,7 @@
 
 ## technology: [pygame/streamlit]
 ## application description:
-
+รายละเอียดproject
 ## presentation:
 [slide/canva/etc..] link [public/ubu
 
